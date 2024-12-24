@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+h2 {
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+}
+h3 {
+    color: green;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+img {
+    width: 300px; /* Cambia el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Hace que la imagen sea un elemento de bloque */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
